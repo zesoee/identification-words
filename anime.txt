@@ -1,0 +1,4 @@
+# 死神 千年血战篇
+(?i)Bleach.*S04(?=.*MWeb) => Bleach S02{[tmdbid=30984;type=tv;s=2]} && E <> 1080p >> EP+40
+(?i)Bleach.*S04(?=.*(?:GrassTV|CMCTV)) => Bleach S02{[tmdbid=30984;type=tv;s=2]} && E <> 2026 >> EP+40
+(?i)Bleach.*(?:sennen|thousand).*S01 => Bleach S02{[tmdbid=30984;type=tv;s=2]}
