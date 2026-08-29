@@ -4,4 +4,4 @@
 (?i)Bleach.*(?:sennen|thousand).*S01 => Bleach S02{[tmdbid=30984;type=tv;s=2]}
 
 # One Piece 1999 S23 艾尔巴夫篇
-(?i)One Piece(?=.*1999).*S01(?=E11(?:5[6-9]|[67]\d|8[01])\b) => One Piece 1999 S23{[tmdbid=37854;type=tv;s=23]}
+(?i)One[ .]Piece(?=.*1999).*S01(?=E11(?:5[6-9]|[67]\d|8[01])\b) => One Piece 1999 S23{[tmdbid=37854;type=tv;s=23]}
