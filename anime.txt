@@ -5,3 +5,6 @@
 
 # One Piece 1999 S23 艾尔巴夫篇
 (?i)One[ .]Piece(?=.*1999).*S01(?=E11(?:5[6-9]|[67]\d|8[01])\b) => One Piece 1999 S23{[tmdbid=37854;type=tv;s=23]}
+
+# 名侦探柯南 - 银色子弹字幕组
+(?i)(?:(?<=SBSUB.*)|(?=.*SBSUB))CONAN => {[tmdbid=30983;type=tv;s=1]}
