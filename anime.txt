@@ -8,3 +8,6 @@
 
 # 名侦探柯南 - 银色子弹字幕组
 (?i)(?:(?<=SBSUB.*)|(?=.*SBSUB))CONAN => {[tmdbid=30983;type=tv;s=1]}
+
+# 超超超超超喜欢你的100个女朋友 第三期
+(?i)(?=.*100)(?=.*(?:kanojo|girlfriends)).*S01E(2[5-9]|3[0-6]) => Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo{[tmdbid=223564;type=tv;s=03;e=\1@-24]}
