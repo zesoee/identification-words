@@ -5,3 +5,6 @@
 
 # One Piece 1999 S23 艾尔巴夫篇
 (?i)One Piece(?=.*1999).*S01(?=E11(?:5[6-9]|[67]\d|8[01])\b) => One Piece 1999 S23{[tmdbid=37854;type=tv;s=23]}
+
+# 超超超超超喜欢你的100个女朋友 第三期
+(?i)(?=.*100)(?=.*(?:kanojo|girlfriends)).*S01(?=E(?:2[5-9]|3[0-6])) => Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo{[tmdbid=223564;type=tv;s=03]} && E <> 2023 >> EP-24
