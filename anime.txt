@@ -9,3 +9,6 @@
 
 # 超超超超超喜欢你的100个女朋友 第三期
 (?i)(?=.*100)(?=.*(?:kanojo|girlfriends)).*S01(?=E(?:2[5-9]|3[0-6])) => Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo S03{[tmdbid=223564;type=tv;s=03]} && E <> 2023 >> EP-24
+
+# JOJO的奇妙冒险 S06 飙马野郎
+(?i)(?=.*(steel ball run|飙马野郎)).*?-\s*(?=\d{2}\b) => JOJO的奇妙冒险 SO6E{[tmdbid=45790;type=tv;s=6]}
