@@ -15,3 +15,7 @@
 
 # JOJO的奇妙冒险 S06 飙马野郎
 (?i)(steel ball run|飙马野郎) => {[tmdbid=45790;type=tv;s=6]}
+
+# 药屋少女的呢喃 S03
+(?i)(?=.*(?:The[-._\s]+Apothecary[-._\s]+Diaries|Kusuriya[-._\s]+no[-._\s]+Hitorigoto)).*?S03(?=E(?:49|[56]\d|7[12])\b) => The Apothecary Diaries S01{[tmdbid=220542;type=tv;s=1]}
+(?i)(?=.*(?:The[-._\s]+Apothecary[-._\s]+Diaries|Kusuriya[-._\s]+no[-._\s]+Hitorigoto)).*?S03E((?:\d|[01]\d|2[0-4])\b) => The Apothecary Diaries S01{[tmdbid=220542;type=tv;s=1;e=\1@+48]}
