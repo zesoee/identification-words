@@ -16,6 +16,6 @@
 # 药屋少女的呢喃 S03
 (?i)(?=.*(?:The Apothecary Diaries|Kusuriya no Hitorigoto)).*?S03(?=E(?:49|[56]\d|7[12])\b) => The Apothecary Diaries S01{[tmdbid=220542;type=tv;s=1]}
 (?i)(?=.*(?:The Apothecary Diaries|Kusuriya no Hitorigoto)).*?S03(?=E(?:\d|[01]\d|2[0-4])\b) => The Apothecary Diaries S01{[tmdbid=220542;type=tv;s=1]} && E <> 1080p >> EP+48
-# 冰之城壁 第2季
-(?i)(?=.*(?:The[-._\s]+Ramparts[-._\s]+of[-._\s]+Ice|Koori[-._\s]+no[-._\s]+Jouheki)).*?S0?2(?=[ ._-]*E\d+\b) => The Ramparts of Ice S01E{[tmdbid=283428;type=tv;s=1]} && E <> 1080p >> EP+14
 
+# 冰之城壁 第2季
+(?i)(?=.*(?:The[-._\s]+Ramparts[-._\s]+of[-._\s]+Ice|Koori[-._\s]+no[-._\s]+Jouheki)).*?S0?2(?=[ ._-]*E\d+\b) => The Ramparts of Ice S01{[tmdbid=283428;type=tv;s=1]} && E <> 1080p >> EP+14
